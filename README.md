@@ -1,0 +1,2 @@
+# jupyterhub_for_bioinfo_workshops
+A JupyterHub environment for bioinformatics workshops
